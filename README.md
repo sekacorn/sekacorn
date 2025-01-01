@@ -1,7 +1,7 @@
 Hi 👋 My name is sekacorn
 =========================
 
-The projects I have here are tasks I'm working on as I learn new skills. Occasionally, I add a touch of comedy to keep things lively. The other projects include simple generators and converters—tools that I believe many people searching the internet would find useful. These are straightforward software tools that, in my early days on the internet, I struggled to find. I often wondered why no one had already created them by then and made them available for free. So, I want to do just that for others out there with similar question
+The projects I have here are tasks I'm working on as I learn new skills. Occasionally, I add a touch of comedy to keep things lively. The other projects include simple generators and converters—tools that I believe many people searching the internet would find useful. These are straightforward software tools that, in my early days on the internet, I struggled to find. I often wondered why no one had already created them by then and made them available for free. So, I want to do just that for others out there who may be having a  with similar question
 
 ### Skills
 
