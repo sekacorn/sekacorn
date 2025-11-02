@@ -1,5 +1,5 @@
 # 💫 About Me:
-The projects I have here are tasks I'm working on as I learn new skills. Occasionally, I add a <br>touch of comedy to keep things lively.The other projects include simple generators and <br>converters—tools that I believe many people searching the internet would find useful. These are straightforward software tools <br>that, in my early days on the internet, I struggled to find. I often wondered why no one <br>had already created them by then and made them available for free. So, I want to do<br>just that for others out  there who may be having a with similar question
+The projects I have here are tasks and software I think may useful to non profit organisation that I'm working on as I learn new skills. Occasionally, I add a <br>touch of comedy to keep things lively.The other projects include simple generators and <br>converters—tools that I believe many people searching the internet would find useful. These are straightforward software tools <br>that, in my early days on the internet, I struggled to find. I often wondered why no one <br>had already created them by then and made them available for free. So, I want to do<br>just that for others out there who are looking for such tools may be having a with similar thought or question
 
 
 # 💻 Tech Stack:
