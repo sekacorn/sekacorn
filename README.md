@@ -1,5 +1,5 @@
 # 💫 About Me:
-The projects I’ve shared here are tasks and software ideas that I believe could be useful to the non-profit organization I’m involved with, as <br>well as part of my own learning journey. From time to time, I add a touch of humor to keep things lively.<br><br>Some of my other projects include simple generators and converters—tools I think many people searching the internet might find helpful. <br>These are straightforward tools thatI once struggled to find during my early days online. I often wondered why no one had already created<br>and shared them for free. So now, I want to do just that—for others who might be asking the same question.
+The projects I’ve shared here are tasks and software ideas that I believe could be useful to the non-profit organization I’m involved with, as well as part of my own learning journey. From time to time, I add a touch of humor to keep things lively.<br><br>Some of my other projects include simple generators and converters tools I think many people searching the internet might find helpful. These are straightforward tools thatI once struggled to find during my early days online. I often wondered why no one had already created<br>and shared them for free. So now, I want to do just that—for others who might be asking the same question.
 
 
 ## 🌐 Socials:
