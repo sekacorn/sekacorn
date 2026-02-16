@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I’m currently building open-source, production-ready full-stack websites and free local desktop software tools that address critical needs I see in the world. These tools and websites are geared towards:<br><br>  - Non-Profits Organisations,<br>  - Researchers in Scientific Fields,<br>  - NGOs, <br> -Research Students in Graduate School , <br> - And you my mate, the average joe,<br>
+I’m currently building open-source, production-ready full-stack websites and free local desktop software tools that address critical needs I thin are needed in the world. These tools and websites are geared towards:<br><br>  - Non-Profits Organisations,<br>  - Researchers in Scientific Fields,<br>  - NGOs, <br> -Research Students in Graduate School , <br> - And you my mate, the average joe,<br>
 So  mankind can be pushed as forward and far as it can be, without paywalls. All for one and one for all<br>
 
 
