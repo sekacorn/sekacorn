@@ -1,7 +1,8 @@
 
 # 💫 About Me:
-I’m currently building open-source, production-ready full-stack websites and free local desktop software tools that address critical needs I thin are needed in the world. These tools and websites are geared towards:<br><br>  - Non-Profits Organisations,<br>  - Researchers in Scientific Fields,<br>  - NGOs, <br> -Research Students in Graduate School , <br> - And you my mate, the average joe,<br>
-So  mankind can be pushed as forward and far as it can be, without paywalls. All for one and one for all<br>
+I’m hard at work creating open-source, production-ready full-stack websites and truly free, local desktop software tools — ones I believe the world desperately needs right now.
+Geared toward:<br><br>  - Non-Profits Organisations,<br>  - Researchers in Scientific Fields,<br>  - NGOs, <br> - Research Students in Graduate School , <br> - And you my mate, the average joe,<br>
+So mankind can be pushed as forward and far as it can be, without paywalls. All for one and one for all<br>
 
 
 ## 🌐 Socials:
