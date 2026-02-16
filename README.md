@@ -15,10 +15,11 @@ So mankind can be pushed as forward and far as it can be, without paywalls. All 
 ![](https://nirzak-streak-stats.vercel.app/?user=Sekacorn&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sekacorn&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sekacorn&limit=27&theme=tokyonight&combine_all_yearly_contributions=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sekacorn&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sekacorn&limit=31&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
