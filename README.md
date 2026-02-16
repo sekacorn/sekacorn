@@ -18,6 +18,6 @@ All of it to push mankind forward as far as I can. All for one and one for all<b
 ![](https://github-profile-trophy.vercel.app/?username=Sekacorn&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sekacorn&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Sekacorn&limit=11&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
