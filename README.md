@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I’m currently building open-source, production-ready full-stack websites and free software tools that address critical needs I see in the world.:<br><br>  -Non-Profits,<br>  -Researchers in Scientific Fields,<br>  -NGOs, <br> -And you my guy the average,<br>
+I’m currently building open-source, production-ready full-stack websites and free local desktop software tools that address critical needs I see in the world.:<br><br>  -Non-Profits,<br>  -Researchers in Scientific Fields,<br>  -NGOs, <br> -And you my guy the average,<br>
 All of it to push mankind forward as far as I can. All for one and one for all<br>
 
 
