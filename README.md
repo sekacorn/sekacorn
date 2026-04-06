@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a professional software engineer building open-source tools focused on real-world need<br>Some projects are protected by proprietary licenses to prevent monopolisation, while the majority are made available under free and open licenses. These free softwares are geared towards Researchers, <br><br>  - Non Profit or NGOs, <br>  - Universities, <br>  - Students Pursuing Master or Doctorate, <br>  - And You the average person<br><br>My goal is simple:<br>to accelerate human progress by making powerful tools accessible—without dependence on large payrolls or centralized control that have paywalls.<br>
+I am a professional software engineer building open-source tools focused on real-world need<br>Some projects are protected by proprietary licenses to prevent monopolisation, while the majority are made available under free and open licenses. These free softwares are geared towards <br><br> - Researchers,   - Non Profit or NGOs, <br>  - Universities, <br>  - Students Pursuing Master or Doctorate, <br>  - And You the average person<br><br>My goal is simple:<br>to accelerate human progress by making powerful tools accessible—without dependence on large payrolls or centralized control that have paywalls.<br>
 
 
 ## 🌐 Socials:
