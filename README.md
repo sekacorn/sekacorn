@@ -12,10 +12,6 @@ I am a professional software engineer building open-source tools focused on real
 
 ![Trophies](https://github-trophies.vercel.app/?username=sekacorn&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
-# 📊 GitHub Stats:
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sekacorn&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
 # 🔝 Featured Repos
 
 <table>
