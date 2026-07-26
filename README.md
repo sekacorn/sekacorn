@@ -15,11 +15,38 @@ I am a professional software engineer building open-source tools focused on real
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sekacorn&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
-### 🔝 Top Contributed Repo
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sekacorn&limit=29&theme=dark&combine_all_yearly_contributions=true&order_by=contributions" />
-</p>
+### 🔝  Featured Repos
+
+### 🔝 Featured / Top Contributed Repos
+
+| # | Repository | Description |
+|---|------------|-------------|
+| 1 | [**CrisisConnect**](https://github.com/sekacorn/CrisisConnect) | Open-source platform connecting field workers with NGOs & UN agencies for humanitarian coordination |
+| 2 | [**ClimateHealthMapper**](https://github.com/sekacorn/ClimateHealthMapper) | AI + geospatial platform for climate-health research collaboration |
+| 3 | [**ClimateDataFetcher**](https://github.com/sekacorn/ClimateDataFetcher) | Fast CLI tool to fetch real satellite & climate data for NGOs and researchers |
+| 4 | [**AgentForge**](https://github.com/sekacorn/AgentForge) | Multi-agent orchestration with cost-awareness, security & compliance |
+| 5 | [**AgentPolicyPack**](https://github.com/sekacorn/AgentPolicyPack) | Vendor-neutral policy-as-code toolkit for governing AI agents |
+| 6 | [**Linux-of-Ai**](https://github.com/sekacorn/Linux-of-Ai) | Portable, governed, and replaceable AI infrastructure ecosystem |
+| 7 | [**OpenOntologyLite**](https://github.com/sekacorn/OpenOntologyLite) | Lightweight vendor-neutral semantic layer for organizational knowledge |
+| 8 | [**PrivateAIStack**](https://github.com/sekacorn/PrivateAIStack) | One-command private AI stack (agents + RAG + audit logs + OpenTelemetry) |
+| 9 | [**AIMeter**](https://github.com/sekacorn/AIMeter) | Vendor-neutral AI usage, cost, efficiency & outcome measurement |
+| 10 | [**AIAuditLog**](https://github.com/sekacorn/AIAuditLog) | Tamper-evident, privacy-aware audit logging toolkit for AI systems |
+| 11 | [**Code-Atlas**](https://github.com/sekacorn/Code-Atlas) | Offline static analysis for Java/Ada with dependency maps & data lineage |
+| 12 | [**CodeSummarizer**](https://github.com/sekacorn/CodeSummarizer) | Privacy-first local desktop app for code analysis & summarization |
+| 13 | [**CodeSummarizer-Windows**](https://github.com/sekacorn/CodeSummarizer-Windows) | Native Windows (C#/WPF) edition of Code Summarizer with Ollama |
+| 14 | [**ModelSwapBench**](https://github.com/sekacorn/ModelSwapBench) | Benchmark for testing cheaper/local models as drop-in replacements |
+| 15 | [**Corn-Cobol-to-Java-Releases**](https://github.com/sekacorn/Corn-Cobol-to-Java-Releases) | Deterministic COBOL → Java modernization (NIST CCVS85 compliant) |
+| 16 | [**Corn-Grand-Model**](https://github.com/sekacorn/Corn-Grand-Model) | Computational framework linking solar/lunar cycles to real-world patterns |
+| 17 | [**Open-Source-Humanitarian-Infrastructure-Suite**](https://github.com/sekacorn/Open-Source-Humanitarian-Infrastructure-Suite) | Suite of open-source tools for NGOs, researchers & civic technologists |
+| 18 | [**Digital-Twin-Lite**](https://github.com/sekacorn/Digital-Twin-Lite) | Wellness digital twin simulator (FastAPI + React) |
+| 19 | [**divinity-verse-sim**](https://github.com/sekacorn/divinity-verse-sim) | Lightweight comedic god-game with LLM-driven agents |
+| 20 | [**odysseus-folk**](https://github.com/sekacorn/odysseus-folk) | Self-hosted AI workspace (fork) |
+| 21 | [**Research-OS**](https://github.com/sekacorn/Research-OS) | Local-first research workflow for quantitative social-science analysis |
+| 22 | [**WaterAccessOptimizer**](https://github.com/sekacorn/WaterAccessOptimizer) | Data-driven platform for water access planning & risk assessment |
+| 23 | [**cobol-to-java-compiler**](https://github.com/sekacorn/cobol-to-java-compiler) | COBOL to Java compiler / transpiler |
+| 24 | [**CobolToCpp**](https://github.com/sekacorn/CobolToCpp) | COBOL to C++ modernization tool |
+| 25 | [**Arithmetic-Math-Exam-Generator**](https://github.com/sekacorn/Arithmetic-Math-Exam-Generator) | Tool for generating arithmetic/math exams |
 
 ![Profile views](https://komarev.com/ghpvc/?username=sekacorn&label=Profile%20views&color=0e75b6&style=flat)
 
