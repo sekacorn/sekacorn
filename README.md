@@ -10,43 +10,148 @@ I am a professional software engineer building open-source tools focused on real
 
 
 # 📊 GitHub Stats:
-
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sekacorn&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
+### 🔝 Featured Repos
 
-### 🔝  Featured Repos
-
-### 🔝 Featured / Top Contributed Repos
-
-| # | Repository | Description |
-|---|------------|-------------|
-| 1 | [**CrisisConnect**](https://github.com/sekacorn/CrisisConnect) | Open-source platform connecting field workers with NGOs & UN agencies for humanitarian coordination |
-| 2 | [**ClimateHealthMapper**](https://github.com/sekacorn/ClimateHealthMapper) | AI + geospatial platform for climate-health research collaboration |
-| 3 | [**ClimateDataFetcher**](https://github.com/sekacorn/ClimateDataFetcher) | Fast CLI tool to fetch real satellite & climate data for NGOs and researchers |
-| 4 | [**AgentForge**](https://github.com/sekacorn/AgentForge) | Multi-agent orchestration with cost-awareness, security & compliance |
-| 5 | [**AgentPolicyPack**](https://github.com/sekacorn/AgentPolicyPack) | Vendor-neutral policy-as-code toolkit for governing AI agents |
-| 6 | [**Linux-of-Ai**](https://github.com/sekacorn/Linux-of-Ai) | Portable, governed, and replaceable AI infrastructure ecosystem |
-| 7 | [**OpenOntologyLite**](https://github.com/sekacorn/OpenOntologyLite) | Lightweight vendor-neutral semantic layer for organizational knowledge |
-| 8 | [**PrivateAIStack**](https://github.com/sekacorn/PrivateAIStack) | One-command private AI stack (agents + RAG + audit logs + OpenTelemetry) |
-| 9 | [**AIMeter**](https://github.com/sekacorn/AIMeter) | Vendor-neutral AI usage, cost, efficiency & outcome measurement |
-| 10 | [**AIAuditLog**](https://github.com/sekacorn/AIAuditLog) | Tamper-evident, privacy-aware audit logging toolkit for AI systems |
-| 11 | [**Code-Atlas**](https://github.com/sekacorn/Code-Atlas) | Offline static analysis for Java/Ada with dependency maps & data lineage |
-| 12 | [**CodeSummarizer**](https://github.com/sekacorn/CodeSummarizer) | Privacy-first local desktop app for code analysis & summarization |
-| 13 | [**CodeSummarizer-Windows**](https://github.com/sekacorn/CodeSummarizer-Windows) | Native Windows (C#/WPF) edition of Code Summarizer with Ollama |
-| 14 | [**ModelSwapBench**](https://github.com/sekacorn/ModelSwapBench) | Benchmark for testing cheaper/local models as drop-in replacements |
-| 15 | [**Corn-Cobol-to-Java-Releases**](https://github.com/sekacorn/Corn-Cobol-to-Java-Releases) | Deterministic COBOL → Java modernization (NIST CCVS85 compliant) |
-| 16 | [**Corn-Grand-Model**](https://github.com/sekacorn/Corn-Grand-Model) | Computational framework linking solar/lunar cycles to real-world patterns |
-| 17 | [**Open-Source-Humanitarian-Infrastructure-Suite**](https://github.com/sekacorn/Open-Source-Humanitarian-Infrastructure-Suite) | Suite of open-source tools for NGOs, researchers & civic technologists |
-| 18 | [**Digital-Twin-Lite**](https://github.com/sekacorn/Digital-Twin-Lite) | Wellness digital twin simulator (FastAPI + React) |
-| 19 | [**divinity-verse-sim**](https://github.com/sekacorn/divinity-verse-sim) | Lightweight comedic god-game with LLM-driven agents |
-| 20 | [**odysseus-folk**](https://github.com/sekacorn/odysseus-folk) | Self-hosted AI workspace (fork) |
-| 21 | [**Research-OS**](https://github.com/sekacorn/Research-OS) | Local-first research workflow for quantitative social-science analysis |
-| 22 | [**WaterAccessOptimizer**](https://github.com/sekacorn/WaterAccessOptimizer) | Data-driven platform for water access planning & risk assessment |
-| 23 | [**cobol-to-java-compiler**](https://github.com/sekacorn/cobol-to-java-compiler) | COBOL to Java compiler / transpiler |
-| 24 | [**CobolToCpp**](https://github.com/sekacorn/CobolToCpp) | COBOL to C++ modernization tool |
-| 25 | [**Arithmetic-Math-Exam-Generator**](https://github.com/sekacorn/Arithmetic-Math-Exam-Generator) | Tool for generating arithmetic/math exams |
+<table>
+  <thead>
+    <tr style="background-color:#1e293b;">
+      <th style="color:#f1f5f9; padding:10px 12px; text-align:left;">#</th>
+      <th style="color:#f1f5f9; padding:10px 12px; text-align:left;">Repository</th>
+      <th style="color:#f1f5f9; padding:10px 12px; text-align:left;">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">1</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/CrisisConnect"><b>CrisisConnect</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Humanitarian coordination platform for field workers, NGOs & UN agencies</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">2</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/ClimateHealthMapper"><b>ClimateHealthMapper</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">AI + geospatial platform for climate-health research collaboration</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">3</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/ClimateDataFetcher"><b>ClimateDataFetcher</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Fast CLI to fetch real satellite & climate data</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">4</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/AgentForge"><b>AgentForge</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Cost-aware multi-agent orchestration with security & compliance</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">5</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/AgentPolicyPack"><b>AgentPolicyPack</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Vendor-neutral policy-as-code toolkit for AI agents</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">6</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Linux-of-Ai"><b>Linux-of-Ai</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Portable, governed & replaceable AI infrastructure</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">7</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/OpenOntologyLite"><b>OpenOntologyLite</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Lightweight vendor-neutral semantic layer</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">8</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/PrivateAIStack"><b>PrivateAIStack</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">One-command private AI stack (agents + RAG + audit)</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">9</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/AIMeter"><b>AIMeter</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Vendor-neutral AI usage, cost & efficiency measurement</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">10</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/AIAuditLog"><b>AIAuditLog</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Tamper-evident privacy-aware AI audit logging</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">11</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Code-Atlas"><b>Code-Atlas</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Offline static analysis with dependency maps & lineage</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">12</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/CodeSummarizer"><b>CodeSummarizer</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Privacy-first local code analysis desktop app</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">13</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/CodeSummarizer-Windows"><b>CodeSummarizer-Windows</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Native Windows (C#/WPF) edition</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">14</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/ModelSwapBench"><b>ModelSwapBench</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Benchmark for cheaper/local model replacements</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">15</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Corn-Cobol-to-Java-Releases"><b>Corn-Cobol-to-Java-Releases</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Deterministic COBOL → Java modernization</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">16</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Corn-Grand-Model"><b>Corn-Grand-Model</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Solar/lunar cycle computational framework</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">17</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Open-Source-Humanitarian-Infrastructure-Suite"><b>Open-Source-Humanitarian-Infrastructure-Suite</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Humanitarian software suite for NGOs & researchers</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">18</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Digital-Twin-Lite"><b>Digital-Twin-Lite</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Wellness digital twin simulator (FastAPI + React)</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">19</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/divinity-verse-sim"><b>divinity-verse-sim</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Comedic LLM-driven god-game</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">20</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/odysseus-folk"><b>odysseus-folk</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Self-hosted AI workspace</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">21</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Research-OS"><b>Research-OS</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Local-first research workflow for social science</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">22</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/WaterAccessOptimizer"><b>WaterAccessOptimizer</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Water access planning & risk assessment platform</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">23</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/cobol-to-java-compiler"><b>cobol-to-java-compiler</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">COBOL to Java compiler / transpiler</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">24</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/CobolToCpp"><b>CobolToCpp</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">COBOL to C++ modernization tool</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">25</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Arithmetic-Math-Exam-Generator"><b>Arithmetic-Math-Exam-Generator</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Tool for generating arithmetic / math exams</td>
+    </tr>
+  </tbody>
+</table>
 
 ![Profile views](https://komarev.com/ghpvc/?username=sekacorn&label=Profile%20views&color=0e75b6&style=flat)
 
