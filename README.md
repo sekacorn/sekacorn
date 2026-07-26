@@ -122,33 +122,83 @@ I am a professional software engineer building open-source tools focused on real
     </tr>
     <tr style="background-color:#1e293b;">
       <td style="padding:9px 12px; color:#a5b4c8;">20</td>
-      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/odysseus-folk"><b>odysseus-folk</b></a></td>
-      <td style="padding:9px 12px; color:#cbd5e1;">Self-hosted AI workspace</td>
-    </tr>
-    <tr style="background-color:#0f172a;">
-      <td style="padding:9px 12px; color:#a5b4c8;">21</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Research-OS"><b>Research-OS</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">Local-first research workflow for social science</td>
     </tr>
-    <tr style="background-color:#1e293b;">
-      <td style="padding:9px 12px; color:#a5b4c8;">22</td>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">21</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/WaterAccessOptimizer"><b>WaterAccessOptimizer</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">Water access planning & risk assessment platform</td>
     </tr>
-    <tr style="background-color:#0f172a;">
-      <td style="padding:9px 12px; color:#a5b4c8;">23</td>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">22</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/cobol-to-java-compiler"><b>cobol-to-java-compiler</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">COBOL to Java compiler / transpiler</td>
     </tr>
-    <tr style="background-color:#1e293b;">
-      <td style="padding:9px 12px; color:#a5b4c8;">24</td>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">23</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/CobolToCpp"><b>CobolToCpp</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">COBOL to C++ modernization tool</td>
     </tr>
-    <tr style="background-color:#0f172a;">
-      <td style="padding:9px 12px; color:#a5b4c8;">25</td>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">24</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Arithmetic-Math-Exam-Generator"><b>Arithmetic-Math-Exam-Generator</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">Tool for generating arithmetic / math exams</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">25</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Calendar-Calculator-App-Backend"><b>Calendar-Calculator-App-Backend</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Backend for calendar & calculator application</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">26</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Calendar-Calculator-App-Frontend"><b>Calendar-Calculator-App-Frontend</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Frontend for calendar & calculator application</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">27</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/classic-tower-of-H-game"><b>classic-tower-of-H-game</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Classic Tower of Hanoi game implementation</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">28</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/99"><b>99</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Neovim AI agent project</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">29</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/OpenOntologyLite"><b>OpenOntologyLite</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Lightweight semantic layer for portable knowledge</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">30</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Code-Atlas"><b>Code-Atlas</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Offline static analysis for Java/Ada repos</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">31</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/ModelSwapBench"><b>ModelSwapBench</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Open-source model replacement benchmark</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">32</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/PrivateAIStack"><b>PrivateAIStack</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Private AI stack with RAG and observability</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">33</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/AIMeter"><b>AIMeter</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">AI cost, usage and outcome measurement</td>
+    </tr>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">34</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Linux-of-Ai"><b>Linux-of-Ai</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Ecosystem for portable AI infrastructure</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">35</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/AgentForge"><b>AgentForge</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Multi-agent orchestration framework</td>
     </tr>
   </tbody>
 </table>
