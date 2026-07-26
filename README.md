@@ -10,11 +10,10 @@ I am a professional software engineer building open-source tools focused on real
 
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sekacorn&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 
-### 🔝 Featured Repos
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sekacorn&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+# 🔝 Featured Repos
 
 <table>
   <thead>
@@ -162,43 +161,43 @@ I am a professional software engineer building open-source tools focused on real
     </tr>
     <tr style="background-color:#1e293b;">
       <td style="padding:9px 12px; color:#a5b4c8;">28</td>
-      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/99"><b>99</b></a></td>
-      <td style="padding:9px 12px; color:#cbd5e1;">Neovim AI agent project</td>
-    </tr>
-    <tr style="background-color:#0f172a;">
-      <td style="padding:9px 12px; color:#a5b4c8;">29</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/OpenOntologyLite"><b>OpenOntologyLite</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">Lightweight semantic layer for portable knowledge</td>
     </tr>
-    <tr style="background-color:#1e293b;">
-      <td style="padding:9px 12px; color:#a5b4c8;">30</td>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">29</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Code-Atlas"><b>Code-Atlas</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">Offline static analysis for Java/Ada repos</td>
     </tr>
-    <tr style="background-color:#0f172a;">
-      <td style="padding:9px 12px; color:#a5b4c8;">31</td>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">30</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/ModelSwapBench"><b>ModelSwapBench</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">Open-source model replacement benchmark</td>
     </tr>
-    <tr style="background-color:#1e293b;">
-      <td style="padding:9px 12px; color:#a5b4c8;">32</td>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">31</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/PrivateAIStack"><b>PrivateAIStack</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">Private AI stack with RAG and observability</td>
     </tr>
-    <tr style="background-color:#0f172a;">
-      <td style="padding:9px 12px; color:#a5b4c8;">33</td>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">32</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/AIMeter"><b>AIMeter</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">AI cost, usage and outcome measurement</td>
     </tr>
-    <tr style="background-color:#1e293b;">
-      <td style="padding:9px 12px; color:#a5b4c8;">34</td>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">33</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Linux-of-Ai"><b>Linux-of-Ai</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">Ecosystem for portable AI infrastructure</td>
     </tr>
-    <tr style="background-color:#0f172a;">
-      <td style="padding:9px 12px; color:#a5b4c8;">35</td>
+    <tr style="background-color:#1e293b;">
+      <td style="padding:9px 12px; color:#a5b4c8;">34</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/AgentForge"><b>AgentForge</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">Multi-agent orchestration framework</td>
+    </tr>
+    <tr style="background-color:#0f172a;">
+      <td style="padding:9px 12px; color:#a5b4c8;">35</td>
+      <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/AgentPolicyPack"><b>AgentPolicyPack</b></a></td>
+      <td style="padding:9px 12px; color:#cbd5e1;">Policy-as-code toolkit for AI governance</td>
     </tr>
   </tbody>
 </table>
