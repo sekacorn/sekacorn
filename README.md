@@ -184,7 +184,7 @@ I am a professional software engineer building open-source tools focused on real
       <td style="padding:9px 12px; color:#a5b4c8;">27</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/classic-tower-of-H-game"><b>classic-tower-of-H-game</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">Classic Tower of Hanoi game implementation</td>
-      <td style="padding:9px 12px; color:#3b82f6; text-align:center;">🔵 B</td>
+      <td style="padding:9px 12px; color:#3b82f6; text-align:center;">🟠 C</td>
     </tr>
   </tbody>
 </table>
