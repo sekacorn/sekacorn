@@ -10,7 +10,7 @@ I am a professional software engineer building open-source tools focused on real
 
 # 🏆 GitHub Trophies
 
-![Trophies](https://github-trophies.vercel.app/?username=sekacorn&theme=merko&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-trophies.vercel.app/?username=sekacorn&theme=merko&no-frame=false&no-bg=true&margin-w=4&row=1)
 
 # 🔝 Featured Repos
 
@@ -88,7 +88,7 @@ I am a professional software engineer building open-source tools focused on real
       <td style="padding:9px 12px; color:#a5b4c8;">11</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Code-Atlas"><b>Code-Atlas</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">Offline static analysis with dependency maps &amp; lineage</td>
-      <td style="padding:9px 12px; color:#3b82f6; text-align:center;">🔵 B</td>
+      <td style="padding:9px 12px; color:#3b82f6; text-align:center;">🟢 A</td>
     </tr>
     <tr style="background-color:#1e293b;">
       <td style="padding:9px 12px; color:#a5b4c8;">12</td>
@@ -142,7 +142,7 @@ I am a professional software engineer building open-source tools focused on real
       <td style="padding:9px 12px; color:#a5b4c8;">20</td>
       <td style="padding:9px 12px;"><a href="https://github.com/sekacorn/Research-OS"><b>Research-OS</b></a></td>
       <td style="padding:9px 12px; color:#cbd5e1;">Local-first research workflow for social science</td>
-      <td style="padding:9px 12px; color:#3b82f6; text-align:center;">🔵 B</td>
+      <td style="padding:9px 12px; color:#3b82f6; text-align:center;">🟢 A</td>
     </tr>
     <tr style="background-color:#0f172a;">
       <td style="padding:9px 12px; color:#a5b4c8;">21</td>
